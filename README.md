@@ -35,7 +35,7 @@ A **Streamlit interface** allows users to easily upload CSV files for prediction
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shmahma/HOUSE_PRICES
 cd HOUSE_PRICES
 ```
 
