@@ -3,6 +3,8 @@
 ## Overview
 This project predicts house prices using machine learning. Multiple regression models are compared, and the best one is selected based on **RMSE**
 
+Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
 A **Streamlit interface** allows users to easily upload CSV files for predictions and download a ready-to-submit `submission.csv` for Kaggle.
 
 ## Features
