@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### 1️⃣ Train the Model
+### 1️ Train the Model
 ```bash
 python src/train.py
 ```
@@ -47,13 +47,13 @@ python src/train.py
 - Selects the best one 
 - Saves the pipeline as `model.pkl`
 
-### 2️⃣ Predict with Test Data
+### 2️ Predict with Test Data
 ```bash
 python src/evaluate.py 
 ```
 - Produces predictions and regression evaluation metrics: R², MAE, and RMSE
   
-### 3️⃣ Streamlit Interface
+### 3️ Streamlit Interface
 ```bash
 python -m streamlit run app.py
 ```
